@@ -1,0 +1,23 @@
+# FOGO Bot Dependencies
+# Core Solana libraries
+solana==0.30.2
+solders==0.20.1
+
+# HTTP client
+aiohttp>=3.8.0,<4.0.0
+
+# Encoding
+base58==2.1.1
+
+# Terminal colors
+colorama==0.4.6
+
+# Optional speedups
+aiofiles==23.2.0
+
+# Async utilities (usually included with Python 3.7+)
+# asyncio - built-in
+
+# Additional dependencies for stability
+certifi>=2023.7.22
+urllib3>=1.26.0
