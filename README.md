@@ -1,0 +1,1 @@
+# FOGO_TESTNET_BOT
